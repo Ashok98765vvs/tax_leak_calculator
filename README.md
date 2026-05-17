@@ -16,11 +16,6 @@ It models the combined tax exposure across both jurisdictions and shows you:
 - Foreign Tax Credit (FTC) savings via Form 67 / ITR-3
 - After-tax cash retained
 
----
-
-## 🖼️ Screenshot
-
-> _(Add a screenshot here after uploading — recommended size: 1200×700px)_
 
 ---
 
